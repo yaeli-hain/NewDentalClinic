@@ -1,0 +1,2 @@
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentlClinic\obj\Debug\DentlClinic.csproj.AssemblyReference.cache
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentlClinic\obj\Debug\DentlClinic.csproj.CoreCompileInputs.cache

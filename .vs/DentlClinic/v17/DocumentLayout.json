@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6FDCE9-4220-45CD-A44C-1EA5A396DC6C}|DentalClinic.service\\DentalClinic.Service.csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.service\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6FDCE9-4220-45CD-A44C-1EA5A396DC6C}|DentalClinic.service\\DentalClinic.Service.csproj|solutionrelative:dentalclinic.service\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC774A77-A68C-455F-884D-85EA64A2E6A6}|DentalClinics\\DentalClinic (1).csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC774A77-A68C-455F-884D-85EA64A2E6A6}|DentalClinics\\DentalClinic (1).csproj|solutionrelative:dentalclinics\\program (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|solutionrelative:dentalclinic.core\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC774A77-A68C-455F-884D-85EA64A2E6A6}|DentalClinics\\DentalClinic (1).csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC774A77-A68C-455F-884D-85EA64A2E6A6}|DentalClinics\\DentalClinic (1).csproj|solutionrelative:dentalclinics\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC774A77-A68C-455F-884D-85EA64A2E6A6}|DentalClinics\\DentalClinic (1).csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\models\\clientpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC774A77-A68C-455F-884D-85EA64A2E6A6}|DentalClinics\\DentalClinic (1).csproj|solutionrelative:dentalclinics\\models\\clientpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|solutionrelative:dentalclinic.core\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B433478F-E69F-44AA-8AFE-DADBF48E7A92}|DentalClinic.data\\DentalClinic.Data.csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B433478F-E69F-44AA-8AFE-DADBF48E7A92}|DentalClinic.data\\DentalClinic.Data.csproj|solutionrelative:dentalclinic.data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|solutionrelative:dentalclinic.core\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6FDCE9-4220-45CD-A44C-1EA5A396DC6C}|DentalClinic.service\\DentalClinic.Service.csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6FDCE9-4220-45CD-A44C-1EA5A396DC6C}|DentalClinic.service\\DentalClinic.Service.csproj|solutionrelative:dentalclinic.service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC774A77-A68C-455F-884D-85EA64A2E6A6}|DentalClinics\\DentalClinic (1).csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC774A77-A68C-455F-884D-85EA64A2E6A6}|DentalClinics\\DentalClinic (1).csproj|solutionrelative:dentalclinics\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC774A77-A68C-455F-884D-85EA64A2E6A6}|DentalClinics\\DentalClinic (1).csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\controllers\\appointmentcontroller (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC774A77-A68C-455F-884D-85EA64A2E6A6}|DentalClinics\\DentalClinic (1).csproj|solutionrelative:dentalclinics\\controllers\\appointmentcontroller (1).cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|c:\\users\\user1\\downloads\\jm_pwe0rryu9uwjhmf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|solutionrelative:dentalclinic.core\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Services\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "DentalClinic.core\\Services\\IAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:25:38.476Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TreatmentService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.service\\TreatmentService.cs",
+              "RelativeDocumentMoniker": "DentalClinic.service\\TreatmentService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.service\\TreatmentService.cs",
+              "RelativeToolTip": "DentalClinic.service\\TreatmentService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T00:00:52.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program (1).cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Program (1).cs",
+              "RelativeDocumentMoniker": "DentalClinics\\Program (1).cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Program (1).cs",
+              "RelativeToolTip": "DentalClinics\\Program (1).cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T23:43:33.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Models\\Client.cs",
+              "RelativeToolTip": "DentalClinic.core\\Models\\Client.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T23:14:35.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Models\\ClientPostModel.cs",
+              "RelativeDocumentMoniker": "DentalClinics\\Models\\ClientPostModel.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Models\\ClientPostModel.cs",
+              "RelativeToolTip": "DentalClinics\\Models\\ClientPostModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T23:10:38.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Repositories\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "DentalClinic.core\\Repositories\\IClientRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T23:11:26.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Services\\IClientService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Services\\IClientService.cs",
+              "RelativeToolTip": "DentalClinic.core\\Services\\IClientService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T23:01:45.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.service\\ClientService.cs",
+              "RelativeDocumentMoniker": "DentalClinic.service\\ClientService.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.service\\ClientService.cs",
+              "RelativeToolTip": "DentalClinic.service\\ClientService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADgvygAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:42:33.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "DentalClinic.data\\Repositories\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "DentalClinic.data\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:41:48.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TreatmentController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\TreatmentController.cs",
+              "RelativeDocumentMoniker": "DentalClinics\\Controllers\\TreatmentController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\TreatmentController.cs",
+              "RelativeToolTip": "DentalClinics\\Controllers\\TreatmentController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAEwCkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:38:57.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "DentalClinics\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "DentalClinics\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAASwDMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:38:36.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppointmentController (1).cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\AppointmentController (1).cs",
+              "RelativeDocumentMoniker": "DentalClinics\\Controllers\\AppointmentController (1).cs",
+              "ToolTip": "C:\\Users\\user1\\Downloads\\jm_PwE0RRYu9UWjHMf\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\AppointmentController (1).cs",
+              "RelativeToolTip": "DentalClinics\\Controllers\\AppointmentController (1).cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAlwCoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T21:34:07.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\repositories\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\repositories\\itreatmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18E2209-C4C1-4D0A-807D-11F239132DCF}|DentalClinics\\DentalClinic.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18E2209-C4C1-4D0A-807D-11F239132DCF}|DentalClinics\\DentalClinic.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18E2209-C4C1-4D0A-807D-11F239132DCF}|DentalClinics\\DentalClinic.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\controllers\\treatmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\services\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\services\\itreatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\services\\iclientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6FDCE9-4220-45CD-A44C-1EA5A396DC6C}|DentalClinic.service\\DentalClinic.Service.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6FDCE9-4220-45CD-A44C-1EA5A396DC6C}|DentalClinic.service\\DentalClinic.Service.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.service\\clientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6FDCE9-4220-45CD-A44C-1EA5A396DC6C}|DentalClinic.service\\DentalClinic.Service.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.service\\treatmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B433478F-E69F-44AA-8AFE-DADBF48E7A92}|DentalClinic.data\\DentalClinic.Data.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.data\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B433478F-E69F-44AA-8AFE-DADBF48E7A92}|DentalClinic.data\\DentalClinic.Data.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.data\\repositories\\treatmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B433478F-E69F-44AA-8AFE-DADBF48E7A92}|DentalClinic.data\\DentalClinic.Data.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.data\\repositories\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18E2209-C4C1-4D0A-807D-11F239132DCF}|DentalClinics\\DentalClinic.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\models\\clientpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\dto\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\dto\\clientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\dto\\treatmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18E2209-C4C1-4D0A-807D-11F239132DCF}|DentalClinics\\DentalClinic.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B433478F-E69F-44AA-8AFE-DADBF48E7A92}|DentalClinic.data\\DentalClinic.Data.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18E2209-C4C1-4D0A-807D-11F239132DCF}|DentalClinics\\DentalClinic.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinics\\dentalclinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B433478F-E69F-44AA-8AFE-DADBF48E7A92}|DentalClinic.data\\DentalClinic.Data.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.data\\dentalclinic.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CDA563C-8622-4B53-8108-01D1EA9AC2AA}|DentalClinic.core\\DentalClinic.Core.csproj|\\\\zz-filesrv\\handesaim2\\group a\\c#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\dentlclinic\\dentalclinic.core\\dentalclinic.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Services\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Services\\IAppointmentService.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Services\\IAppointmentService.cs",
+              "RelativeToolTip": "DentalClinic.core\\Services\\IAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:30:29.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "DentalClinics\\Controllers\\AppointmentController.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "DentalClinics\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwBkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:50:09.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "DentalClinics\\Controllers\\ClientController.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "DentalClinics\\Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:40:09.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreatmentController.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\TreatmentController.cs",
+              "RelativeDocumentMoniker": "DentalClinics\\Controllers\\TreatmentController.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Controllers\\TreatmentController.cs",
+              "RelativeToolTip": "DentalClinics\\Controllers\\TreatmentController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwDEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:50:50.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITreatmentRepository.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Repositories\\ITreatmentRepository.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Repositories\\ITreatmentRepository.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Repositories\\ITreatmentRepository.cs",
+              "RelativeToolTip": "DentalClinic.core\\Repositories\\ITreatmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:29:44.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITreatmentService.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Services\\ITreatmentService.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Services\\ITreatmentService.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Services\\ITreatmentService.cs",
+              "RelativeToolTip": "DentalClinic.core\\Services\\ITreatmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:31:38.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Repositories\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Repositories\\IClientRepository.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Repositories\\IClientRepository.cs",
+              "RelativeToolTip": "DentalClinic.core\\Repositories\\IClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:29:14.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Repositories\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Repositories\\IAppointmentRepository.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Repositories\\IAppointmentRepository.cs",
+              "RelativeToolTip": "DentalClinic.core\\Repositories\\IAppointmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:28:49.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IClientService.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Services\\IClientService.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Services\\IClientService.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Services\\IClientService.cs",
+              "RelativeToolTip": "DentalClinic.core\\Services\\IClientService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:31:10.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.service\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "DentalClinic.service\\AppointmentService.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.service\\AppointmentService.cs",
+              "RelativeToolTip": "DentalClinic.service\\AppointmentService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:38:39.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientService.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.service\\ClientService.cs",
+              "RelativeDocumentMoniker": "DentalClinic.service\\ClientService.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.service\\ClientService.cs",
+              "RelativeToolTip": "DentalClinic.service\\ClientService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:39:45.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TreatmentService.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.service\\TreatmentService.cs",
+              "RelativeDocumentMoniker": "DentalClinic.service\\TreatmentService.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.service\\TreatmentService.cs",
+              "RelativeToolTip": "DentalClinic.service\\TreatmentService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:39:20.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "DentalClinic.data\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "DentalClinic.data\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:28:02.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TreatmentRepository.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\Repositories\\TreatmentRepository.cs",
+              "RelativeDocumentMoniker": "DentalClinic.data\\Repositories\\TreatmentRepository.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\Repositories\\TreatmentRepository.cs",
+              "RelativeToolTip": "DentalClinic.data\\Repositories\\TreatmentRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:35:21.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\Repositories\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "DentalClinic.data\\Repositories\\ClientRepository.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\Repositories\\ClientRepository.cs",
+              "RelativeToolTip": "DentalClinic.data\\Repositories\\ClientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:09:25.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClientPostModel.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Models\\ClientPostModel.cs",
+              "RelativeDocumentMoniker": "DentalClinics\\Models\\ClientPostModel.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Models\\ClientPostModel.cs",
+              "RelativeToolTip": "DentalClinics\\Models\\ClientPostModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:56:26.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Models\\Appointment.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Models\\Appointment.cs",
+              "RelativeToolTip": "DentalClinic.core\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T13:31:58.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppointmentDTO.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\DTO\\AppointmentDTO.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\DTO\\AppointmentDTO.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\DTO\\AppointmentDTO.cs",
+              "RelativeToolTip": "DentalClinic.core\\DTO\\AppointmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:15:51.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientDTO.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\DTO\\ClientDTO.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\DTO\\ClientDTO.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\DTO\\ClientDTO.cs",
+              "RelativeToolTip": "DentalClinic.core\\DTO\\ClientDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:28:23.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TreatmentDTO.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\DTO\\TreatmentDTO.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\DTO\\TreatmentDTO.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\DTO\\TreatmentDTO.cs",
+              "RelativeToolTip": "DentalClinic.core\\DTO\\TreatmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:29:08.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Client.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "DentalClinic.core\\Models\\Client.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\Models\\Client.cs",
+              "RelativeToolTip": "DentalClinic.core\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:51:45.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Program.cs",
+              "RelativeDocumentMoniker": "DentalClinics\\Program.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\Program.cs",
+              "RelativeToolTip": "DentalClinics\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIBJwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T12:40:09.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\DataContext.cs",
+              "RelativeDocumentMoniker": "DentalClinic.data\\DataContext.cs",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\DataContext.cs",
+              "RelativeToolTip": "DentalClinic.data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T12:36:56.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DentalClinic.csproj",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\DentalClinic.csproj",
+              "RelativeDocumentMoniker": "DentalClinics\\DentalClinic.csproj",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinics\\DentalClinic.csproj",
+              "RelativeToolTip": "DentalClinics\\DentalClinic.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T12:41:46.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DentalClinic.Data.csproj",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\DentalClinic.Data.csproj",
+              "RelativeDocumentMoniker": "DentalClinic.data\\DentalClinic.Data.csproj",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.data\\DentalClinic.Data.csproj",
+              "RelativeToolTip": "DentalClinic.data\\DentalClinic.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-11T12:40:18.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DentalClinic.Core.csproj",
+              "DocumentMoniker": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\DentalClinic.Core.csproj",
+              "RelativeDocumentMoniker": "DentalClinic.core\\DentalClinic.Core.csproj",
+              "ToolTip": "\\\\ZZ-FILESRV\\Handesaim2\\Group A\\C#\\.net\\\u05D9\u05E2\u05DC \u05D0\u05D5\u05E8\u05D3\u05DE\u05DF\\DentlClinic\\DentalClinic.core\\DentalClinic.Core.csproj",
+              "RelativeToolTip": "DentalClinic.core\\DentalClinic.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-04T13:22:03.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

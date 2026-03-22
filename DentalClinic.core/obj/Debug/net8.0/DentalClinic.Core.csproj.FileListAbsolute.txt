@@ -1,0 +1,37 @@
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\bin\Debug\net8.0\DentalClinic.Core.deps.json
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\bin\Debug\net8.0\DentalClinic.Core.dll
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\bin\Debug\net8.0\DentalClinic.Core.pdb
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.GeneratedMSBuildEditorConfig.editorconfig
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.AssemblyInfoInputs.cache
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.AssemblyInfo.cs
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.csproj.CoreCompileInputs.cache
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.dll
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\refint\DentalClinic.Core.dll
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.pdb
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\ref\DentalClinic.Core.dll
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\bin\Debug\net8.0\DentalClinic.Core.deps.json
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\bin\Debug\net8.0\DentalClinic.Core.dll
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\bin\Debug\net8.0\DentalClinic.Core.pdb
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.csproj.AssemblyReference.cache
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.GeneratedMSBuildEditorConfig.editorconfig
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.AssemblyInfoInputs.cache
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.AssemblyInfo.cs
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.csproj.CoreCompileInputs.cache
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.dll
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\refint\DentalClinic.Core.dll
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.pdb
+\\ZZ-FILESRV\Handesaim2\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\ref\DentalClinic.Core.dll
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.csproj.AssemblyReference.cache
+T:\Group A\C#\.net\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.sourcelink.json
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\bin\Debug\net8.0\DentalClinic.Core.deps.json
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\bin\Debug\net8.0\DentalClinic.Core.dll
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\bin\Debug\net8.0\DentalClinic.Core.pdb
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.AssemblyInfo.cs
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.dll
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\refint\DentalClinic.Core.dll
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\DentalClinic.Core.pdb
+C:\Users\user1\Downloads\jm_PwE0RRYu9UWjHMf\יעל אורדמן\DentlClinic\DentalClinic.core\obj\Debug\net8.0\ref\DentalClinic.Core.dll
